@@ -1,6 +1,8 @@
-body 
+body
 {
-    direction: rtl;
+    direction: ltr;
     text-align: right;
     font-family: Miriam;
+    background-color: white;
+    color: black;
 }
