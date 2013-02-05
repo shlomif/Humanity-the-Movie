@@ -29,12 +29,14 @@ ENG_DB_DIR = English-Docbook
 ENG_EPUB = $(ENG_DB_DIR)/The-Enemy-English.epub
 ENG_XHTML = $(ENG_DB_DIR)/The-Enemy-English.xhtml
 
+SELINA_UPLOAD_TEMP_DEST = temp-selina-mandrake-P9n7ybv3wq2t
+
 all: $(DOCS_SCREENPLAY_XHTML) $(ENG_EPUB) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
 odt: $(DOCS_SCREENPLAY_ODT)
 
 upload:
-	rsync -v --progress -a $(FILES) $${HOMEPAGE_SSH_PATH}/$(THE_ENEMY_DEST)/
+	rsync -v --progress -a $(FILES) $${HOMEPAGE_SSH_PATH}/$(SELINA_UPLOAD_TEMP_DEST)/
 
 $(DOCS_SCREENPLAY_DB5): %.db5.xml: %.screenplay-xml.xml
 	perl -MXML::Grammar::Screenplay::App::ToDocBook -e 'run()' -- \
@@ -46,7 +48,7 @@ $(DOCS_SCREENPLAY_XML): %.screenplay-xml.xml: %.screenplay-text.txt
 
 $(DOCS_SCREENPLAY_XHTML): %.screenplay-text.xhtml: %.db5.xml
 	xsltproc --stringparam root.filename $@ \
-		--stringparam html.stylesheet "style-heb.css" \
+		--stringparam html.stylesheet "style.css" \
 		--path $(DOCBOOK5_XSL_STYLESHEETS_XHTML_PATH) \
 		-o $@ \
 		$(DOCBOOK5_XSL_CUSTOM_XSLT_STYLESHEET) $<
@@ -54,7 +56,7 @@ $(DOCS_SCREENPLAY_XHTML): %.screenplay-text.xhtml: %.db5.xml
 
 $(DOCS_SCREENPLAY_FO): %.screenplay-text.fo : %.db5.xml
 	xsltproc --stringparam root.filename $@ \
-		--stringparam html.stylesheet "style-heb.css" \
+		--stringparam html.stylesheet "style.css" \
 		--path $(DOCBOOK5_XSL_STYLESHEETS_FO_PATH) \
 		-o $@ \
 		$(DOCBOOK5_XSL_CUSTOM_FO_XSLT_STYLESHEET) $<
