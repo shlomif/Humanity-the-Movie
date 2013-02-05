@@ -1,20 +1,20 @@
-FILES = Makefile $(DOCS_FICTION_XHTML) \
-		$(DOCS_FICTION_TEXT) $(DOCS_FICTION_DB5) \
+FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
+		$(DOCS_SCREENPLAY_TEXT) $(DOCS_SCREENPLAY_DB5) \
 		$(ENG_EPUB) $(ENG_DB_PROCESSED) $(ENG_DB_SOURCE) $(ENG_XHTML) \
 		style.css style-heb.css \
 		README.html
 
 # The-Enemy-English.xhtml \
 
-DOCS_BASE = The-Enemy-Hebrew
+DOCS_BASE = selina-mandrake-the-slayer
 
-DOCS_FICTION_TEXT = $(patsubst %,%.fiction-text.txt,$(DOCS_BASE))
-DOCS_FICTION_XML = $(patsubst %,%.fiction-xml.xml,$(DOCS_BASE))
-DOCS_FICTION_DB5 = $(patsubst %,%.db5.xml,$(DOCS_BASE))
-DOCS_FICTION_XHTML = $(patsubst %,%.fiction-text.xhtml,$(DOCS_BASE))
-DOCS_FICTION_FO = $(patsubst %,%.fiction-text.fo,$(DOCS_BASE))
-DOCS_FICTION_RTF = $(patsubst %,%.fiction-text.rtf,$(DOCS_BASE))
-DOCS_FICTION_ODT = $(patsubst %,%.odt,$(DOCS_BASE))
+DOCS_SCREENPLAY_TEXT = $(patsubst %,%.screenplay-text.txt,$(DOCS_BASE))
+DOCS_SCREENPLAY_XML = $(patsubst %,%.screenplay-xml.xml,$(DOCS_BASE))
+DOCS_SCREENPLAY_DB5 = $(patsubst %,%.db5.xml,$(DOCS_BASE))
+DOCS_SCREENPLAY_XHTML = $(patsubst %,%.screenplay-text.xhtml,$(DOCS_BASE))
+DOCS_SCREENPLAY_FO = $(patsubst %,%.screenplay-text.fo,$(DOCS_BASE))
+DOCS_SCREENPLAY_RTF = $(patsubst %,%.screenplay-text.rtf,$(DOCS_BASE))
+DOCS_SCREENPLAY_ODT = $(patsubst %,%.odt,$(DOCS_BASE))
 
 DOCBOOK5_XSL_STYLESHEETS_PATH := $(HOME)/Download/unpack/file/docbook/docbook-xsl-ns-snapshot
 
@@ -29,22 +29,22 @@ ENG_DB_DIR = English-Docbook
 ENG_EPUB = $(ENG_DB_DIR)/The-Enemy-English.epub
 ENG_XHTML = $(ENG_DB_DIR)/The-Enemy-English.xhtml
 
-all: $(DOCS_FICTION_XHTML) $(ENG_EPUB) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
+all: $(DOCS_SCREENPLAY_XHTML) $(ENG_EPUB) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
-odt: $(DOCS_FICTION_ODT)
+odt: $(DOCS_SCREENPLAY_ODT)
 
 upload:
 	rsync -v --progress -a $(FILES) $${HOMEPAGE_SSH_PATH}/$(THE_ENEMY_DEST)/
 
-$(DOCS_FICTION_DB5): %.db5.xml: %.fiction-xml.xml
-	perl -MXML::Grammar::Fiction::App::ToDocBook -e 'run()' -- \
+$(DOCS_SCREENPLAY_DB5): %.db5.xml: %.screenplay-xml.xml
+	perl -MXML::Grammar::Screenplay::App::ToDocBook -e 'run()' -- \
 		-o $@ $<
 
-$(DOCS_FICTION_XML): %.fiction-xml.xml: %.fiction-text.txt
-	perl -MXML::Grammar::Fiction::App::FromProto -e 'run()' -- \
+$(DOCS_SCREENPLAY_XML): %.screenplay-xml.xml: %.screenplay-text.txt
+	perl -MXML::Grammar::Screenplay::App::FromProto -e 'run()' -- \
 	-o $@ $<
 
-$(DOCS_FICTION_XHTML): %.fiction-text.xhtml: %.db5.xml
+$(DOCS_SCREENPLAY_XHTML): %.screenplay-text.xhtml: %.db5.xml
 	xsltproc --stringparam root.filename $@ \
 		--stringparam html.stylesheet "style-heb.css" \
 		--path $(DOCBOOK5_XSL_STYLESHEETS_XHTML_PATH) \
@@ -52,19 +52,19 @@ $(DOCS_FICTION_XHTML): %.fiction-text.xhtml: %.db5.xml
 		$(DOCBOOK5_XSL_CUSTOM_XSLT_STYLESHEET) $<
 	mv -f $@.html $@
 
-$(DOCS_FICTION_FO): %.fiction-text.fo : %.db5.xml
+$(DOCS_SCREENPLAY_FO): %.screenplay-text.fo : %.db5.xml
 	xsltproc --stringparam root.filename $@ \
 		--stringparam html.stylesheet "style-heb.css" \
 		--path $(DOCBOOK5_XSL_STYLESHEETS_FO_PATH) \
 		-o $@ \
 		$(DOCBOOK5_XSL_CUSTOM_FO_XSLT_STYLESHEET) $<
 
-$(DOCS_FICTION_RTF): %.rtf: %.fo
+$(DOCS_SCREENPLAY_RTF): %.rtf: %.fo
 	fop -fo $< -rtf $@
 
-rtf: $(DOCS_FICTION_RTF)
+rtf: $(DOCS_SCREENPLAY_RTF)
 
-$(DOCS_FICTION_ODT): $(DOCS_FICTION_DB5)
+$(DOCS_SCREENPLAY_ODT): $(DOCS_SCREENPLAY_DB5)
 	docbook2odf $< -o $@
 
 ENG_DB_PROCESSED = $(ENG_DB_DIR)/PROCESSED_The-Enemy-English.db5.xml
@@ -80,26 +80,22 @@ $(ENG_DB_PROCESSED) : $(ENG_DB_XSLT) $(ENG_DB_SOURCE)
 
 DOCBOOK_RNG = ./rng/docbook.rng
 
-JING = jing $(DOCBOOK_RNG)
-
 # XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-ns-snapshot
 XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-snapshot/
 
 EPUB_SCRIPT = $(XSL_SNAPSHOT_HOME)/epub/bin/dbtoepub
 
 $(ENG_EPUB) : $(ENG_DB_PROCESSED)
-	$(JING) $<
 	ruby $(EPUB_SCRIPT) -o $@ $<
 
 $(ENG_XHTML) : $(ENG_DB_PROCESSED)
-	$(JING) $<
 	xsltproc --stringparam root.filename $@ --path $(DOCBOOK5_XSL_STYLESHEETS_XHTML_PATH) -o $@ $(DOCBOOK5_XSL_CUSTOM_XSLT_STYLESHEET) $<
 	mv -f English-Docbook/English-Docbook/The-Enemy-English.xhtml.html $@
 
 $(ENG_HTML_FOR_OOO): $(ENG_XHTML)
 	cat $< | perl -lne 'print unless m{\A<\?xml}' > $@
 
-$(HEB_HTML_FOR_OOO): $(DOCS_FICTION_XHTML)
+$(HEB_HTML_FOR_OOO): $(DOCS_SCREENPLAY_XHTML)
 	cat $< | perl -lne 's{(</title>)}{$${1}<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />}; print unless m{\A<\?xml}' > $@
 
 oohtml: $(ENG_HTML_FOR_OOO) $(HEB_HTML_FOR_OOO)
