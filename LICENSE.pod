@@ -1,0 +1,19 @@
+=encoding utf8
+
+=head1 LICENSE
+
+=head2 Text
+
+The text for the screenplay “Selina Mandrake - The Slayer” is mostly original,
+and as far as I am concerned is Copyright by Shlomi Fish, 2011 and
+available under the
+L<http://creativecommons.org/licenses/by-sa/3.0/>, either version 3.0 or at
+your option any later version. However, it makes use of characters and
+concepts from
+L<http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_%28TV_series%29> ,
+from L<http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine> , and from
+other sources, some of which are already public-domain.
+
+As a result, the verdict is that this is fan-fiction and derivative work and
+B<please don’t sue us> .
+
