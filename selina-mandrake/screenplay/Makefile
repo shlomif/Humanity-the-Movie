@@ -36,7 +36,7 @@ odt: $(DOCS_FICTION_ODT)
 upload:
 	rsync -v --progress -a $(FILES) $${HOMEPAGE_SSH_PATH}/$(THE_ENEMY_DEST)/
 
-$(DOCS_FICTION_DB5): %.db5.xml: %.fiction-xml.xml 
+$(DOCS_FICTION_DB5): %.db5.xml: %.fiction-xml.xml
 	perl -MXML::Grammar::Fiction::App::ToDocBook -e 'run()' -- \
 		-o $@ $<
 
