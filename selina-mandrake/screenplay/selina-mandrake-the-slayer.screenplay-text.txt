@@ -390,6 +390,38 @@ Selina’s Voice: Mrs. Chu, do you know where I can find a small broom?
 
 </s>
 
+<s id="the-guide-about-john-and-alan" title="The Guide about John Alan">
+
+[ Selina is walking down the hallway from the library frustrated. The
+Guide approaches her. ]
+
+The Guide: MAGEIA! CONGRATULATIONS, THE VERY POWERFUL VAMPIRES JOHN AND ALAN
+HAVE SUCCESSFULLY BEEN SLAIN BY YOU.
+
+Selina: what? They? Very powerful? I cannot believe it.
+
+The Guide: LOOKS CAN BE DECEIVING. JOHN AND ALAN WERE NOTORIOUSLY DEADLY AND
+DANGEROUS.
+
+Selina: if you say so.
+
+The Guide: BUT THE WORST IS AHEAD OF YOU!!
+
+Selina: yes, I figured it out, thanks.
+
++++: Mr. Guide, I hope I'm not going to let you down, in vanquishing the
+rest of the vampires.
+
+The Guide: AND OTHER DEMONS.
+
+Selina: yes, quite a weird lot this supernatural underworld seems to be.
+
+The Guide: REALITY IS WEIRD, MAGEIA. FAREWALL FOR NOW.
+
+[They walk away in different directions.]
+
+</s>
+
 <s id="selinas-18s-birthday-party" title="Selina’s 18th Birthday Party">
 
 [Selina is standing near a cake with 18 lit candles, and the number 18 on
