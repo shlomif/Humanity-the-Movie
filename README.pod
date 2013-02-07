@@ -1,0 +1,14 @@
+=encoding utf8
+
+=head1 Selina Mandrake - The Slayer - Source Repository.
+
+=head2 About
+
+This repository contains the sources for I<Selina Mandrake - The Slayer>,
+a screenplay by Shlomi Fish (L<http://www.shlomifish.org/>), that serves as a
+parody and tribute to the show I<Buffy - The Vampire Slayer> and several other
+influences.
+
+=head2 Building
+
+Go to C<selina-mandrake/screenplay/> and type C<make> .
