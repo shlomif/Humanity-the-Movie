@@ -12,3 +12,8 @@ influences.
 =head2 Building
 
 Go to C<selina-mandrake/screenplay/> and type C<make> .
+
+=head2 Ideas document / plot summary
+
+The file C<selina-mandrake/ideas/ideas.txt> contains some ideas to put into
+the story.
