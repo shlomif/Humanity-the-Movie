@@ -981,23 +981,23 @@ Milady Kate: his eminence! Oh no, oh no… if it’s about my relationship with
 M. d’Artagnan, then - it was all my fault - I can return to England, and…
 
 Cardinal Richelieu: Milady Canterson, we have known about your affair with
-d’Artagnan for a long time, and do not disapprove of it, but that’s not why
+M. d’Artagnan for a long time, and do not disapprove of it, but that is not why
 you are here. In fact, we brought you here, in order to slay Lord Buckingham,
 so he won’t interfere with our planned attack of La Rochelle.
 
 Milady Kate: kill him?
 
-Cardinal Richelieu: I said slay - not kill. There is a difference as you
+Cardinal Richelieu: I said “slay” - not “kill”. There is a difference as you
 shall see.
 
 +++: we have failed at convincing Lord Buckingham that he should refrain from
-attacking us, which will cause many innocent lives to be killed and so we
+attacking us, which will cause many innocent lives to be lost and so we
 have to resort to take him out of the equation.
 
 Louis XIII: here’s the deal: you will carry these three letters signed by his
 eminence, by the King of England and by me, that will instruct whoever reads
 them to do everything within reason to assist you in your mission. M. Athos
-and M. d’Artagnan will escort you and they will protect you with your lives
+and M. d’Artagnan will escort you, and they will protect you with your lives
 if necessary.
 
 Louis XIII: The plan is: go to your house and take the belongings you
@@ -1008,7 +1008,7 @@ sure nothing bad happens to him), slay Lord Buckingham, and take a carriage
 with him to Plymouth where you will board a ship to America, and both start
 a new life. Is that clear?
 
-Milady Kate: yes, your majesty.
+Milady Kate: yes, your majesty. [She bows.]
 
 [Milady Kate, Athos and d’Artagnan leave.]
 
@@ -1025,7 +1025,7 @@ Adam: Hello, melord! I can kill you now, but I won't.
 Lord Buckingham: I believe you. What is it that you want.
 
 [Milady Kate enters, followed by Athos, d’Artagnan and Lord Canterson who
-are carrying a body.]
+are dragging a body.]
 
 Milady Kate: greetings melord - we shall travel together to Plymouth, in order
 to catch a ship to the New World, where we will be a couple at least until
@@ -1061,8 +1061,8 @@ his home in Paris. This is what happened.
 
 [Cut to Alexandre Dumas’s Home]
 
-Dumas: Good morning Madame Black, I have heard so much about you,
-but don’t know why you would like to meet me.
+Dumas: Good morning, Madame Black, I have heard so much about you,
+but have know idea why you would like to meet me all of a suddon.
 
 Kate: M. Dumas… I am going to kill you. Physically! For what you have done to
 me.
@@ -1087,8 +1087,8 @@ Dumas: please, tell me all about it.
 Kate: [drunk] M. Dumas, you treated me really well today, but now what do
 we do… about… about… about the people who ask me to slay them.
 
-M. Dumas: [not drunk] Madame, just tell them that you no longer will slay.
-That you quit being a slayer, and they should deal with their troubled
+M. Dumas: [not as drunk] Madame, just tell them that you no longer will slay.
+That you quit being a slayer, and THAT they should deal with their troubled
 life themselves.
 
 Kate: Mr. Dumas, sounds like a good idea. You are a very wise man for your
@@ -1112,7 +1112,16 @@ Kate: and I was happy to tell it. [She pours some water and drinks it.]
 Thanks for the hospitality. And for the useful piece of advice which I
 now recall.
 
-Alexandre Dumas: you are welcome, Madame.
+Alexandre Dumas: you are most welcome, Madame. Now please - stay for breakfast.
+
+Kate: thank you Monsieour. I shall stay. No wine this time, though.
+
+[Dumas smiles and Kate laughs.]
+
+Alexandre Dumas: OK, would you like to hear about some ideas I have for
+a new novel?
+
+[Close-up on Kate, she is grinning mischieviously.]
 
 </s>
 
