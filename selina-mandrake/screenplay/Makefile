@@ -11,6 +11,7 @@ DOCS_SCREENPLAY_TEXT = $(patsubst %,%.screenplay-text.txt,$(DOCS_BASE))
 DOCS_SCREENPLAY_XML = $(patsubst %,%.screenplay-xml.xml,$(DOCS_BASE))
 DOCS_SCREENPLAY_DB5 = $(patsubst %,%.db5.xml,$(DOCS_BASE))
 DOCS_SCREENPLAY_XHTML = $(patsubst %,%.screenplay-text.xhtml,$(DOCS_BASE))
+DOCS_SCREENPLAY_XHTML_AS_HTML = $(patsubst %,%.final.html,$(DOCS_BASE))
 DOCS_SCREENPLAY_FO = $(patsubst %,%.screenplay-text.fo,$(DOCS_BASE))
 DOCS_SCREENPLAY_RTF = $(patsubst %,%.screenplay-text.rtf,$(DOCS_BASE))
 DOCS_SCREENPLAY_ODT = $(patsubst %,%.odt,$(DOCS_BASE))
@@ -44,6 +45,8 @@ $(DOCS_SCREENPLAY_XHTML): %.screenplay-text.xhtml: %.screenplay-xml.xml
 	perl -MXML::Grammar::Screenplay::App::ToHTML -e 'run()' -- \
 		-o $@ $<
 
+$(DOCS_SCREENPLAY_XHTML_AS_HTML): $(DOCS_SCREENPLAY_XHTML)
+	cp -f $< $@
 
 $(DOCS_SCREENPLAY_FO): %.screenplay-text.fo : %.db5.xml
 	xsltproc --stringparam root.filename $@ \
@@ -92,3 +95,6 @@ clean:
 
 %.show:
 	@echo "$* = $($*)"
+
+linview: $(DOCS_SCREENPLAY_XHTML_AS_HTML)
+	xdg-open $<
