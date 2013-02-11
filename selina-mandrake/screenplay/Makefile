@@ -40,13 +40,10 @@ $(DOCS_SCREENPLAY_XML): %.screenplay-xml.xml: %.screenplay-text.txt
 	perl -MXML::Grammar::Screenplay::App::FromProto -e 'run()' -- \
 	-o $@ $<
 
-$(DOCS_SCREENPLAY_XHTML): %.screenplay-text.xhtml: %.db5.xml
-	xsltproc --stringparam root.filename $@ \
-		--stringparam html.stylesheet "style.css" \
-		--path $(DOCBOOK5_XSL_STYLESHEETS_XHTML_PATH) \
-		-o $@ \
-		$(DOCBOOK5_XSL_CUSTOM_XSLT_STYLESHEET) $<
-	mv -f $@.html $@
+$(DOCS_SCREENPLAY_XHTML): %.screenplay-text.xhtml: %.screenplay-xml.xml
+	perl -MXML::Grammar::Screenplay::App::ToHTML -e 'run()' -- \
+		-o $@ $<
+
 
 $(DOCS_SCREENPLAY_FO): %.screenplay-text.fo : %.db5.xml
 	xsltproc --stringparam root.filename $@ \
@@ -90,6 +87,8 @@ epub: $(ENG_EPUB)
 epub_ff: epub
 	firefox $(ENG_EPUB)
 
+clean:
+	rm -f $(DOCS_SCREENPLAY_XHTML) $(DOCS_SCREENPLAY_XML)
+
 %.show:
 	@echo "$* = $($*)"
-
