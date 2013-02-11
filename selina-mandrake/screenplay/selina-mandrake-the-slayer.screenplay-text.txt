@@ -664,7 +664,7 @@ Selina: yep! Got my traveller's checks, some dollars, my mobile, my passport,
 some water, some snacks. Not sure if they will help with surviving The Amber,
 but I can always hope.
 
-Mephiqoleth: I COULD HAVE USED MY CONJURING SPELLS TO CONJURE IT FOR YOU.
+Mephiqoleth: I COULD HAVE USED MY CONJURING SPELLS TO CONJURE THEM FOR YOU.
 
 Selina: well, as someone who saw enough of your demons' lot's shenanigans,
 <b>and</b> some episodes of Sabrina, there's no way I will trust such magically
@@ -673,7 +673,7 @@ conjured goods.
 Mephiqoleth: YOU MAY BE RIGHT. MAGIC CAN BE A DOUBLE-EDGED SWORD.
 
 +++: BUT BACK TO BUSINESS. ARE YOU SURE YOU WANT ME TO TELEPORT YOU TO THE
-AMBER.
+AMBER?
 
 Selina: positive. Do your worst!
 
@@ -710,9 +710,9 @@ Mrs. Mendelssohn: [startled] why hello there. Who might you be?
 
 Selina: oh, Selina Mandrake. At your service! Nice to meet you [she approaches her and extends her hands.]
 
-Mrs. Mendelssohn: nice to meet you: Mrs. Catherine Mendelssohn.
+Mrs. Mendelssohn: nice to meet you, too: Mrs. Catherine Mendelssohn.
 
-Selina: nice to meet you. Just a question: [she looks around] where am I?
+Selina: nice to meet you. [They shake hands] Just a question: [she looks around] where am I?
 
 Mrs. Mendelssohn: in the Mendelssohn residence.
 
