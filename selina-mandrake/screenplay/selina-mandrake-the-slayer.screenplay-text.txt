@@ -806,6 +806,95 @@ leaves the scene.]
 
 </s>
 
+<s id="the-guide-after-the-master" title="Talk with the Guide after the Master">
+
+[Selina is still crying and exiting out of the door - The Guide is there.]
+
+The Guide: MAGEIA! I SEE THE MASTER HAS BEEN SLAIN BY YOU.
+
+[Selina cries]
+
+The Guide: HERE! HAVE A HANDKERCHIEF.
+
+[Selina takes the handkerchief and cries into it.]
+
+Selina: Mr. Guide, how do you think I feel after I slew one of the most
+notable men in the middle ages? This whole slaying business is taking its
+toll too much.
+
+The Guide: INDEED, MAGEIA! SLAYING IS DIFFICULT.
+
++++: NOW I NEED TO TELL YOU THAT IT’S ONLY THE START.
+
+Selina: What?? [she gets angry]
+
+The Guide: YES, THE MASTER IS JUST ONE OF THE FOUR MOST LEGENDARY TERRAN
+VAMPIRES. THE OTHER ONES ARE: THE RIDER, THE VAMPIRELLA WITH THE OLDEST BODY;
+THE INTEGRATOR, THE VAMPIRE WITH THE OLDEST COMBINATION OF BODY AND SOUL; AND
+THE SLAYER - THE FIRST VAMPIRELLA TO HAVE SLAIN ANOTHER VAMPIRE.
+
+Selina: hold it, hold it, <b>hold it</b>! I am <b>The Slayer</b>!
+
+The Guide: THAT IS CORRECT. A VAMPIRE CAN ONLY BE SLAIN BY ANOTHER VAMPIRE.
+AND VAMPIRELLAS MAKE THE MOST FORMIDABLE SLAYERS. [his eyes ligthen up.]
+
+Selina: so I’ve been a vampire all along. And now I have to slay myself. What
+the hell?
+
++++: no way… no way… no freakin’ way.
+
++++: tell you what! I quit! I am no longer <b>The Slayer</b>. I just wanna
+be plain old Selina Mandrake, human being.
+
+The Guide: AS YOU WISH.
+
+[A door opens and an unkempt woman looking awful runs with a night in her hand
+towards The Guide and Selina.]
+
+Selina: aaarrrg! [She quickly runs to hide behind the guide.]
+
+[The Guide pulls out a crossbow from his coat loads it with an arrow, and
+shoots the unkempt woman in the heart. She evaporates into dust.]
+
+Selina: oh my god, oh my god. What was that?
+
+The Guide: [in a non-dramatic tone] that was the Slayer.
+
+Selina: so you slayed the Slayer?
+
+The Guide: no, you did.
+
+Selina: whoa, what?
+
+The Guide: [he packs his crossbow] I have a gift for you [gives her a small
+fancy chest].
+
+Selina: I'm probably going to regret it.
+
+[She opens the chest and at one side there's a fancy and translucent
+<a href="http://en.wikipedia.org/wiki/Ten-sided_die">1d10</a>. Selina extracts
+it and smiles. She then opens the other compartment and sees a plastic
+card that reads “Vampire”, she turns over the card and sees an ID photo of her
+with the labels «Selina Mandrake ; “buffy” ; The Dispeller»]
+
+Selina: hold it, hold it, so now I am still a vampire and am
+“The Dispeller”? Who will slay me?
+
+The Guide: do not worry about it. [He takes out a mobile phone and calls, the phone answers.]
+
+The Guide: Mosheh! How are you doing? How is the Mrs.? All’s well?
+
+Selina: Mosheh?
+
+The Guide: [to Selina] …Ben-Amram.
+
+Selina: Mosheh Ben Amram… oh, God! How could I’ve been so naïve! [To
+the Guide] Give me the phone, I want to give this so-called prophet of the
+Jewish people a peace of my mind for all the hardship he has done to me.
+
+[ To be continued.]
+</s>
+
 <s id="selina-meets-mosheh-and-aharon" title="Selina meets Mosheh and Aharon">
 
 <s id="the-essence-of-being-a-dispeller" title="The Essence of Being a Dispeller">
@@ -1266,7 +1355,7 @@ a new novel?
 
 </s>
 
-<s id="from-slayer-to-dispeller" title="From Slayer to Dispeler">
+<s id="from-slayer-to-dispeller" title="From Slayer to Dispeller">
 
 [Cut to the bench with Selina, Kate, Mosheh and Aharon.]
 
