@@ -1,6 +1,28 @@
-This work is licensed under a Creative Commons Attribution-ShareAlike 3.0
-Unported License (or at your option a greater version of this license). 
+The original parts of this work are licensed under a Creative Commons
+Attribution-ShareAlike 3.0 Unported License (or at your option a greater
+version of this license).
 
 http://creativecommons.org/licenses/by-sa/3.0/
 
-Copyright by Shlomi Fish, 1997.
+However, this work features characters and concepts from:
+
+* http://en.wikipedia.org/wiki/Buffy_the_Vampire_Slayer_%28TV_series%29
+
+* http://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine
+
+* http://en.wikipedia.org/wiki/Tanakh
+
+* http://en.wikipedia.org/wiki/The_Three_Musketeers
+
+* http://en.wikipedia.org/wiki/Sesame_Street
+
+* http://en.wikipedia.org/wiki/Dungeons_%26_Dragons
+
+And other sources of influence.
+
+According to current law using such characters may constitute of a derivative
+work, so I hope this will be OK with the originators of the frenchises that
+I make use of them in my work, and avoid having anti-commercial restrictions
+to my work.
+
+Copyright by Shlomi Fish, 2011.
