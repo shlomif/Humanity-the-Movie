@@ -122,7 +122,7 @@ Selina: That’s good.
 
 Mosheh: Yours?
 
-Selina: Well, the highlight is that my friend and mine decided that I should
+Selina: Well, the highlight is that my friends and I decided that I should
 probably change my name to Selina Mandriva or even Selina Mageia, and become
 a mighty vampire slayer.
 
@@ -151,8 +151,7 @@ Selina’s internal dialogue: OK, let’s see what there is to eat.
 
 [Selina is back at school, and is walking on a corridor, smiling. She opens a
 door and the corridor is empty except for “The Guide”, an attractive Goth-style
-man who looks in his mid-twenties and is standing there watching her with a
-grave facial expression.]
+man and is standing there watching her with a grave facial expression.]
 
 [Selina looks at him, smiles and walks towards him. As she passes him he says
 in a dramatic voice:]
@@ -194,7 +193,8 @@ Selina: This must be some kind of trick. [She starts walking in the corridor
 Selina: Please don’t follow me. [She opens a door to another corridor]
 
 [In the corridor there’s a scared and screaming high school girl to the left,
-and a blood thirsty vampire with his fangs out to the right. The blood thirsty vampire approaches the girl.]
+and a blood thirsty vampire with his fangs out to the right. The blood thirsty
+vampire approaches the girl.]
 
 Selina: [She screams] Oh my God!
 
@@ -255,8 +255,8 @@ The Guide: NO. FAR MORE POWERFUL DEMONS THAN THAT INCOMPETENT ONE.
 
 Selina: OK, that’s really comforting.
 
-+++: Well, I guess I’ll go and make the most out of the rest of this recess.
-Maybe I’ll go take a walk or just surf the Internet aimlessly.
++++: Well, I guess I’ll just go, and make the most out of the rest of this
+recess. Maybe I’ll go take a walk or just surf the Internet aimlessly.
 
 The Guide: SOUNDS LIKE AN EXCELLENT WAY TO GET PREPARED FOR YOUR DESTINY, MAGEIA.
 
@@ -555,7 +555,7 @@ Selina: Jewish? But you're not human.
 
 Mephiqoleth: THERE ARE JEWS OF MANY SPECIES.
 
-Selina: Really? That's great - can I have a Jewish lady cat? I want one
+Selina: Really? That's great - can I have a Jewish lady-cat? I want one
 so she can mother cute little Jewish kittens.
 
 [Cut to Mephiqoleth - he is not amused.]
@@ -604,7 +604,7 @@ Selina: Just one thing, can you please wait with teleporting me to
 <b>the Amber</b> until Spring break, so I can get ready and safely
 return back home.
 
-Mephiqoleth: OF COURSE, I AM TIMELESS. FAREWALL, MAGEIA, I SHALL MEET YOU
+Mephiqoleth: OF COURSE! I AM TIMELESS. FAREWALL, MAGEIA, I SHALL MEET YOU
 AGAIN DURING THIS SO-CALLED ”SPRING BREAK“ WHEN YOU ARE MORE PREPARED. UNTIL
 THEN, MAY YOU BE WELL.
 
@@ -830,8 +830,9 @@ Selina: What?? [she gets angry]
 
 The Guide: YES, THE MASTER IS JUST ONE OF THE FOUR MOST LEGENDARY TERRAN
 VAMPIRES. THE OTHER ONES ARE: THE RIDER, THE VAMPIRELLA WITH THE OLDEST BODY;
-THE INTEGRATOR, THE VAMPIRE WITH THE OLDEST COMBINATION OF BODY AND SOUL; AND
-THE SLAYER - THE FIRST VAMPIRELLA TO HAVE SLAIN ANOTHER VAMPIRE.
+THE INTEGRATOR, THE VAMPIRE WITH THE OLDEST COMBINATION OF THE SAME BODY AND
+THE SAME SOUL; AND THE SLAYER - THE FIRST VAMPIRELLA TO HAVE SLAIN ANOTHER
+VAMPIRE.
 
 Selina: hold it, hold it, <b>hold it</b>! I am <b>The Slayer</b>!
 
@@ -848,8 +849,8 @@ be plain old Selina Mandrake, human being.
 
 The Guide: AS YOU WISH.
 
-[A door opens and an unkempt woman looking awful runs with a night in her hand
-towards The Guide and Selina.]
+[A door opens and an awfully looking unkempt woman runs with a knife in her
+hand towards The Guide and Selina.]
 
 Selina: aaarrrg! [She quickly runs to hide behind the guide.]
 
@@ -916,12 +917,12 @@ The Guide: yes, I will leave you alone now to your normal life. [He walks away.]
 
 Selina: about what?
 
-The Guide: about my slaying abilities. I’m actually a pretty good slayer all
+The Guide: about my slaying abilities. I’m actually a pretty good slayer - all
 things considered.
 
 [Selina looks bewildered.]
 
-The Guide: farewell, Miss Mandrake.
+The Guide: farewell, Ms. Mandrake.
 
 Selina: bye…
 
@@ -943,7 +944,7 @@ Cuneiform is driving me mad, so I'm looking for a pastoral place to study it.
 This park is really lovely.
 ]
 
-[Mosheh and Aharon, who resemble Moses and Aaron from the Bible approach
+[Mosheh and Aharon, who resemble Moses and Aaron from the Bible, approach
 Selina from a different pathway. They are wearing backpacks.]
 
 Mosheh: oh, there she is. [they approach her].
@@ -1002,8 +1003,8 @@ Nine?
 Selina: I did, great show. Hold it, hold it! Not their prophets and the Vadeks
 and Kai Win, and…
 
-Mosheh: yep, they are all real to an extent (minus some Hollywood deviations,
-and exaggerations).
+Mosheh: yep, they are all real to an extent -minus some Hollywood deviations,
+and exaggerations.
 
 Selina: oh God… who is probably Don Knuth, right. I know the “Knuth is not God”
 meme.
@@ -1025,8 +1026,8 @@ Selina: OK, so people dispelled in the past, and they needed me as some kind
 of role model to look up to, in order to dispel. How lame!
 
 +++: But what were these slaying tests, with The Guide, and these weird demons,
-and… God, they made me feel so helpless, and mad, and sad, and… all for becoming
-a silly Bajorean God?
+and… God, they made me feel so helpless, and mad, and sad, and… all for
+becoming a silly Bajoran god?
 
 +++: [she stands up] Couldn't you have given me a written examination?
 
@@ -1055,7 +1056,7 @@ Selina: I see. Did they provide the special effects?
 Mosheh: you guessed it.
 
 Selina: OK, I’m still mad at you. But since I still find all this fascinating
-(I have to as an Archaeologist-wannabe and stuff), I’m going to continue
+(I have to, as an Archaeologist-wannabe and stuff), I’m going to continue
 talking to you, despite being mad.
 
 Mosheh: sure. You may wish to know that the Bajoran scholars considered
@@ -1082,7 +1083,7 @@ Selina: who?
 Mosheh: look behind you.
 
 [Selina turns around and notices a black-haired attractive white woman,
-looking in her twenties or thirties.]
+looking in her thirties or fourties or so.]
 
 Selina: [sheepishly] hi, who might you be?
 
@@ -1187,7 +1188,7 @@ vous veulent que du tort et vous ne devriez pas laisser les paroles
 grossières ou méprisantes vous affecter. Vous valez mieux que ça.
 [= “let me tell you this . It’s OK to receive insults,
 it's OK to be offended, but you need to know that ultimately the other person
-is just does not mean well, and that you should not get them
+just does not mean well, and that you should not get them
 to hurt you. You're better than that.”]
 
 Milady Kate: M. d’Artagnan, vous êtes très sage pour votre âge.
@@ -1202,7 +1203,7 @@ Kate’s voice: d’Artagnan and I became good friends: I taught him English
 and the Bible, and he told me of some of the things he learned as a
 noble, and what happened at the Guards. We ended up falling in love and having
 an affair, and while we did not go public about it, we did not really hide
-it and pretty soon everyone knew, and many single people and couples were
+it, and pretty soon everyone knew, and many single people and couples were
 jealous or envious of us. But we didn’t care.
 
 +++: another thing I should tell you about is the Queen. She was a beautiful
@@ -1267,8 +1268,8 @@ care about; take a fast carriage to Calais and cross the channel; once in
 England, find some people you know to help you find a body similar to Lord
 Buckingham, find someone who will take the blame for it (your King will make
 sure nothing bad happens to him), slay Lord Buckingham, and take a carriage
-with him to Plymouth where you will board a ship to America, and both start
-a new life. Is that clear?
+with him to Plymouth where you will board a ship to the British colonies
+in America, and both start a new life. Is that clear?
 
 Milady Kate: yes, your majesty. [She bows.]
 
