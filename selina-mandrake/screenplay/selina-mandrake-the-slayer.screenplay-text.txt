@@ -318,7 +318,7 @@ Librarian: [From the distance] She’s right there.
 Alan: Thank you, madame.
 
 [Alan and John approach. They are two young British men, dressed in
-cheap, commercial clothing.]
+cheap, commercial, clothing.]
 
 Alan: Hello, Miss Mandrake. I’m Alan. [she shakes his hand.]
 
@@ -361,7 +361,7 @@ Selina: Great. It’s too bad so many Americans are oblivious to all the great
 British culture. America is too culturally inbred.
 
 Alan: Totally! Like many of the people we talked to have not watched <b>all</b>
-of the Monty Python skits.
+of the skits of Monty Python.
 
 [Selina smiles.]
 
@@ -369,8 +369,8 @@ John: Nobody expects the Spanish Inquisition!
 
 Alan: I know: suicide squad!
 
-[Selina is startled. Alan and John take two pencils and say, they put the
-pencils to their heart and say.]
+[Selina is startled. Alan and John take two pencils, put the
+pencils to their hearts and say.]
 
 Alan: All dead! [gives John a high five.]
 
@@ -451,8 +451,9 @@ Warrior #2 and Warrior #3: yeah, the Huge Sword!
 
 The Three: [in unison] Huge Sword!
 
-[Warrior #1 snaps his fingers, and some of these ridiculous swords from
-<a href="http://en.wikipedia.org/wiki/World_of_Warcraft">World of Warcraft</a>
+[Warrior #1 snaps his fingers, and some of these ridiculously large swords
+from <a href="http://en.wikipedia.org/wiki/World_of_Warcraft">World of
+Warcraft</a>
 appear on the ground.]
 
 Selina: wow, can you fight using them?
@@ -474,11 +475,11 @@ replaced by small wooden toothpicks.]
 
 Selina: toothpicks? Have you blokes been watching too much Sesame Street?
 
-Warrior #1: why, of course, every mighty Klingon warrior has watched Sesame
+Warrior #1: why, of course! Every mighty Klingon warrior has watched Sesame
 Street.
 
 Selina: Mighty Klingon vampire warriors who have watched Sesame Street…
-this decade royally sucks!
+this decade royally sucks!!
 
 Selina: fine, I don't care that you're going to slay yourself using
 toothpicks, despite claiming to be the greatest fighters in history -
@@ -502,8 +503,24 @@ and then they perish and evaporate into dust.]
 
 Selina: whoa! Oh well, served them right.
 
-[She walks away.]
+[She walks away. Her mobile phone rings.]
 
+Selina: [on the phone] hello?
+
++++: oh, hi, Jess!
+
++++: in a park…
+
++++: well, it was a good day for some Klingons I met to die.
+
+Jessica on the phone: Sel, you're getting strange lately, but you are amusing.
+
+Selina: tell me about it! By the way, apparently, we will never be able
+to truly appreciate Sesame Street until we watch it in the original Klingon.
+
+Jessica on the phone: [laughing] I guess I’ll never understand.
+
+[She exits the frame]
 </s>
 
 <s id="selinas-18s-birthday-party" title="Selina’s 18th Birthday Party">
