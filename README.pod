@@ -9,6 +9,20 @@ a screenplay by Shlomi Fish (L<http://www.shlomifish.org/>), that serves as a
 parody and tribute to the show I<Buffy - The Vampire Slayer> and several other
 influences.
 
+=head2 Links
+
+=over 4
+
+=item * Homepage
+
+L<http://www.shlomifish.org/humour/Selina-Mandrake/>
+
+=item * On the Buffy Fanfiction Wikia
+
+L<http://buffyfanfiction.wikia.com/wiki/Selina_Mandrake_-_The_Slayer>
+
+=back
+
 =head2 Building
 
 Go to C<selina-mandrake/screenplay/> and type C<make> .
