@@ -1259,8 +1259,8 @@ standing at a corner.
 
 [Showing the scene at the Palace.]
 
-Louis XIII: [in English with a French accent] hello, Milady. You know M.
-d’Artagnan and M. Athos.
+Louis XIII: [in English with a French accent] hello, Lady Canterson. You know
+M. d’Artagnan and M. Athos.
 
 Milady Kate: [a little worried] I do, nice to meet you again.
 
@@ -1318,7 +1318,7 @@ Lord Buckingham: I believe you. What is it that you want.
 [Milady Kate enters, followed by Athos, d’Artagnan and Lord Canterson who
 are dragging a body.]
 
-Milady Kate: greetings Lord Buckingham - we shall travel together to Plymouth,
+Kate: greetings Lord Buckingham - we shall travel together to Plymouth,
 in order to catch a ship to the New World, where we will be a couple at least
 until our arrival. Consider yourself slain and reborn.
 
