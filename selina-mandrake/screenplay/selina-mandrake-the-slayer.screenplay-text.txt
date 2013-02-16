@@ -513,7 +513,8 @@ Selina: [on the phone] hello?
 
 +++: well, it was a good day for some Klingons I met to die.
 
-Jessica on the phone: Sel, you're getting strange lately, but you are amusing.
+Jessica on the phone: Sel, you're getting strange lately, but you are becoming
+more amusing in the process.
 
 Selina: tell me about it! By the way, apparently, we will never be able
 to truly appreciate Sesame Street until we watch it in the original Klingon.
@@ -521,6 +522,7 @@ to truly appreciate Sesame Street until we watch it in the original Klingon.
 Jessica on the phone: [laughing] I guess I’ll never understand.
 
 [She exits the frame]
+
 </s>
 
 <s id="selinas-18s-birthday-party" title="Selina’s 18th Birthday Party">
@@ -633,7 +635,7 @@ present. [She smiles]
 Jessica’s voice from the main hall: Selina, is everything OK, why aren't you
 coming back? Don't you want some cake.
 
-Selina: Yes, sorry, I'm coming, I'm coming. [She takes the trays and leaves
+Selina: Yes, sorry, I'm coming, I'm coming. [She takes the tray and leaves
 the frame]
 
 </s>
