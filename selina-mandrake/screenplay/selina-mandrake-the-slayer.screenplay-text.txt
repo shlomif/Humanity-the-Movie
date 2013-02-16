@@ -443,7 +443,7 @@ Warrior #2: we can assume any form.
 Warrior #1: yes, we can fight using any weapon, and we are masters of them
 all.
 
-Selina: so you can fight with something that's not a Bat’lath?
+Selina: so you can fight with something that’s not a Bat’lath?
 
 Warrior #1: of course, for example, we could fight using the Huge Sword!
 
@@ -529,15 +529,15 @@ the cake.
 
 <s id="selina-meets-mephiqoleth" title="Selina Meets Mephiqoleth">
 
-[Selina goes to the kitchen smiling, opens the refrigerator's door and takes
+[Selina goes to the kitchen smiling, opens the refrigerator’s door and takes
 out some refreshments and arranges them on the table and then she opens
-a cupboard's door only to discover a small human like demon inside.]
+a cupboard’s door only to discover a small human like demon inside.]
 
 Selina: Why, hello there! I guess you did not RSVP.
 
 Mephiqoleth: MAGEIA!
 
-Selina: Judging by the recent happenings, I guess that's me.
+Selina: Judging by the recent happenings, I guess that’s me.
 
 +++: So what should I write on your name tag?
 
@@ -555,7 +555,7 @@ Selina: Jewish? But you're not human.
 
 Mephiqoleth: THERE ARE JEWS OF MANY SPECIES.
 
-Selina: Really? That's great - can I have a Jewish lady-cat? I want one
+Selina: Really? That’s great - can I have a Jewish lady-cat? I want one
 so she can mother cute little Jewish kittens.
 
 [Cut to Mephiqoleth - he is not amused.]
@@ -660,14 +660,14 @@ there.]
 
 Mephiqoleth: I SEE YOU ARE READY, MAGEIA.
 
-Selina: yep! Got my traveller's checks, some dollars, my mobile, my passport,
+Selina: yep! Got my traveller’s checks, some dollars, my mobile, my passport,
 some water, some snacks. Not sure if they will help with surviving The Amber,
 but I can always hope.
 
 Mephiqoleth: I COULD HAVE USED MY CONJURING SPELLS TO CONJURE THEM FOR YOU.
 
-Selina: well, as someone who saw enough of your demons' lot's shenanigans,
-<b>and</b> some episodes of Sabrina, there's no way I will trust such magically
+Selina: well, as someone who saw enough of your demons' lot’s shenanigans,
+<b>and</b> some episodes of Sabrina, there’s no way I will trust such magically
 conjured goods.
 
 Mephiqoleth: YOU MAY BE RIGHT. MAGIC CAN BE A DOUBLE-EDGED SWORD.
@@ -696,13 +696,13 @@ Mephiqoleth: … האמבר. [The Amber]
 
 <s id="selina-in-the-amber" title="Selina in the Amber">
 
-[ Seen through Selina's Eyes, the scenery morphs into the untidy living room
+[ Seen through Selina’s Eyes, the scenery morphs into the untidy living room
 of, in midday, in a “villa" in Ramat Aviv Gimel, Tel Aviv. The birds are
-tweeting outside and there's a feeling of tranquility. ]
+tweeting outside and there’s a feeling of tranquillity. ]
 
 [Cut to Selina inside the house. She looks around]
 
-Selina: that's the Amber? It's pretty nice here. Hope I'm not trespassing.
+Selina: that’s the Amber? It’s pretty nice here. Hope I'm not trespassing.
 
 [The door gets unlocked and opens. Mrs Mendelssohn enters.]
 
@@ -754,7 +754,7 @@ television showing photos from her trip to Israel. ]
 
 [Selina runs into The Master, a big man with a stern look.]
 
-The Master: Greetings, Miss Mandrake! I am glad to meet you so I can fulfill
+The Master: Greetings, Miss Mandrake! I am glad to meet you so I can fulfil
 my destiny.
 
 Selina: I presume you are…
@@ -782,16 +782,16 @@ be Karl the Great, you know… Charlemagne.
 
 The Master: mhmm…
 
-Selina: “mhmm”?? Hold it, you are Charlemagne! Wow, that's so cool.
+Selina: “mhmm”?? Hold it, you are Charlemagne! Wow, that’s so cool.
 
 +++: tell me: how did you become a vampire? And surely you cannot be the
 vampire with the oldest soul? And did you ever come to educate your
-descendents? After all, you forefathered the better half of the European
+descendants? After all, you forefathered the better half of the European
 nobility? I want to hear all about it!
 
 The Master: SILENCE, SELINA! YOU HAVE REVEALED MY TRUE IDENTITY AND NOW I MUST
 PERISH, FOR NO ONE HAS DONE THAT UNTIL NOW. THE PROPHECIES OF THE CODEX HAVE
-COME TRUE - I HAVE BEEN SLAYEN BY THE SLAYER. AWWWWWWWWWWWW
+COME TRUE - I HAVE BEEN SLAIN BY THE SLAYER. AWWWWWWWWWWWW
 
 [His soul leave the body with many effects, many of Selina’s schoolmates
 watch the show with interest. Eventually the Master’s body drop dead on the
@@ -872,7 +872,7 @@ fancy chest].
 
 Selina: I'm probably going to regret it.
 
-[She opens the chest and at one side there's a fancy and translucent
+[She opens the chest and at one side there’s a fancy and translucent
 <a href="http://en.wikipedia.org/wiki/Ten-sided_die">1d10</a>. Selina extracts
 it and smiles. She then opens the other compartment and sees a plastic
 card that reads “Vampire”, she turns over the card and sees an ID photo of her
@@ -934,7 +934,7 @@ Selina: bye…
 
 [ Selina is walking in a nice park. ]
 
-[ Selina's internal dialogue: Matthew and I got accepted into different
+[ Selina’s internal dialogue: Matthew and I got accepted into different
 universities, so we parted ways. Jessica, Jonathan and I are still chatting
 over the Internet and stuff. Meanwhile, I started studying Near East
 Archaeology in a different university in California, and now have to learn
@@ -974,13 +974,13 @@ Aharon: the dispeller!
 
 Selina: exactly. Was it destiny? [starts crying] Was it fate? Did I want to?
 
-[ Mosheh and Ahraon drag Selina to a bench, where she sits down and wheeps. ]
+[ Mosheh and Aharon drag Selina to a bench, where she sits down and weeps. ]
 
 Selina: and what kind of slayer cries like a baby?
 
 Mosheh: here - have a handkerchief.
 
-Selina: thank you. [Weeps into the handerkerchief.]
+Selina: thank you. [Weeps into the handkerchief.]
 
 Mosheh: and don't worry, Selina, some of our most admired and toughest male
 warrior vampires, had cried in less aggravating conditions than yours. We
@@ -1036,7 +1036,7 @@ to deal with a lot of emotions and frustrations in our personal and
 professional lives. Dispelling is not always easy, and you are going to
 encounter many obstacles along the way from envious people, who are threatened
 by what you say, or stubborn people, or sycophants, or even people who care
-about what you say or have important ammendements.
+about what you say or have important amendments.
 
 +++: dispelling is not just fun and games, you know.
 
@@ -1045,7 +1045,7 @@ Selina: I see. [Selina giggles.]
 Mosheh: I should also tell you about the Q continuum.
 
 Selina: yes, I gather it existed, only it seems that the Qs cannot be
-omnipotent, because it's a logical impossibility.
+omnipotent, because it’s a logical impossibility.
 
 Mosheh: they are not. They are regular humanoids, or other aliens, who have
 ascended to be vampires and Qs, and who possess extremely powerful (but not
@@ -1164,7 +1164,7 @@ big fan of me and my stories about what happened in the Bible, and he asked me,
 
 [Showing the couch]
 
-d’Artagnan: Milady, que se passe-t-il? [ = “Milady, what's the matter?” ]
+d’Artagnan: Milady, que se passe-t-il? [ = “Milady, what’s the matter?” ]
 
 Milady Kate: Rien [ = “nothing”. She is crying.].
 
@@ -1176,18 +1176,18 @@ semble heureuse, les autres femmes croient que j'ai tué mon mari.
 [ = “OK. The other women think I killed my husband because I'm now
 no longer grieving and seems happy.”]
 
-d'Artagnan: Sottises! On peut à la fois être triste et heureux pour
+d’Artagnan: Sottises! On peut à la fois être triste et heureux pour
 des raisons différentes. [ = “nonsense. You can be sad and happy at the same
 time, for two different things.” ]
 
 Milady Kate: Oui, oui. [ = “yes. yes.”]
 
-d'Artagnan: Laissez-moi vous dire ceci [takes her hands].  Je
+d’Artagnan: Laissez-moi vous dire ceci [takes her hands].  Je
 comprends que vous soyez troublée, mais sachez que ces personnes ne
 vous veulent que du tort et vous ne devriez pas laisser les paroles
 grossières ou méprisantes vous affecter. Vous valez mieux que ça.
 [= “let me tell you this . It’s OK to receive insults,
-it's OK to be offended, but you need to know that ultimately the other person
+it’s OK to be offended, but you need to know that ultimately the other person
 just does not mean well, and that you should not get them
 to hurt you. You're better than that.”]
 
@@ -1217,7 +1217,7 @@ ended up giving them d’Artagnan’s advice, which I noticed had made
 them quickly lose their job, and then meeting me and telling me how relieved
 they were.
 
-+++: anyway, I was expecting D’Artagnan to propose soon after all that, when
++++: anyway, I was expecting d’Artagnan to propose soon after all that, when
 it was announced that the conquest of La Rochelle was about to take place,
 and that d’Artagnan will relocate there. I was somewhat worried for his
 future, and thought we would have to part soon.
@@ -1227,7 +1227,7 @@ middle of the night and informed me that there were two of the King’s
 Musketeers at the door. I wondered why. The Musketeers told me the king asked
 to see me, so I wore a plain dress, and the Musketeers took me in a carriage
 to the palace. They escorted me to a room where I saw the King sitting at an
-armchair, as well as D’Artagnan, and his good friend and mentor, Athos
+armchair, as well as d’Artagnan, and his good friend and mentor, Athos
 standing at a corner.
 
 [Showing the scene at the Palace.]
@@ -1284,16 +1284,16 @@ And travelled to Portsmouth where Lord Buckingham was about to leave.
 [Showing the cabin of Lord Buckingham. He is standing there. Adam enters with
 a gun and points it at Lord Buckingham.]
 
-Adam: Hello, melord! I can kill you now, but I won't.
+Adam: Greetings, your highness! I can kill you now, but I won't.
 
 Lord Buckingham: I believe you. What is it that you want.
 
 [Milady Kate enters, followed by Athos, d’Artagnan and Lord Canterson who
 are dragging a body.]
 
-Milady Kate: greetings melord - we shall travel together to Plymouth, in order
-to catch a ship to the New World, where we will be a couple at least until
-our arrival. Consider yourself slain and reborn.
+Milady Kate: greetings Lord Buckingham - we shall travel together to Plymouth,
+in order to catch a ship to the New World, where we will be a couple at least
+until our arrival. Consider yourself slain and reborn.
 
 [Turns to face d’Artagnan]
 
