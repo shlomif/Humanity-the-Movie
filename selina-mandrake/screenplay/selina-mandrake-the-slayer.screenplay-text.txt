@@ -423,6 +423,26 @@ The Guide: REALITY IS WEIRD, MAGEIA. FAREWELL FOR NOW.
 
 </s>
 
+<s id="selina-and-fron" title="Selina and the Demon Fron">
+
+[ Selina is walking towards a bench in a park, holding several newspapers, and
+a scissors. She sits on the bench and start preparing some papercuttings.
+
+Fron, a demon with four long stick legs and a short neck steps into the frame.
+
+Selina notices him, is startled and says]
+
+Selina: Why, hello there! You seem out of place for this fine location. Are
+you looking for me?
+
+Fron: NO, I AM NOT.
+
+Selina: OK, if you say so.
+
+
+
+</s>
+
 <s id="selina-and-the-three" title="Selina and The Three">
 
 [There are three young men dressed as Klingons who fight with
