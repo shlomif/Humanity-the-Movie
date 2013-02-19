@@ -1,5 +1,5 @@
 FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
-		$(DOCS_SCREENPLAY_TEXT) $(DOCS_SCREENPLAY_DB5) \
+		$(DOCS_SCREENPLAY_TEXT) \
 		style.css style-heb.css \
 		README.html
 
@@ -9,12 +9,10 @@ DOCS_BASE = selina-mandrake-the-slayer
 
 DOCS_SCREENPLAY_TEXT = $(patsubst %,%.screenplay-text.txt,$(DOCS_BASE))
 DOCS_SCREENPLAY_XML = $(patsubst %,%.screenplay-xml.xml,$(DOCS_BASE))
-DOCS_SCREENPLAY_DB5 = $(patsubst %,%.db5.xml,$(DOCS_BASE))
 DOCS_SCREENPLAY_XHTML = $(patsubst %,%.screenplay-text.xhtml,$(DOCS_BASE))
 DOCS_SCREENPLAY_XHTML_AS_HTML = $(patsubst %,%.final.html,$(DOCS_BASE))
 DOCS_SCREENPLAY_FO = $(patsubst %,%.screenplay-text.fo,$(DOCS_BASE))
 DOCS_SCREENPLAY_RTF = $(patsubst %,%.screenplay-text.rtf,$(DOCS_BASE))
-DOCS_SCREENPLAY_ODT = $(patsubst %,%.odt,$(DOCS_BASE))
 
 DOCBOOK5_XSL_STYLESHEETS_PATH := $(HOME)/Download/unpack/file/docbook/docbook-xsl-ns-snapshot
 
@@ -28,14 +26,8 @@ SELINA_UPLOAD_TEMP_DEST = temp-selina-mandrake-P9n7ybv3wq2t
 
 all: $(DOCS_SCREENPLAY_XHTML) $(ENG_EPUB) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
-odt: $(DOCS_SCREENPLAY_ODT)
-
 upload:
 	rsync -v --progress -a $(FILES) $${HOMEPAGE_SSH_PATH}/$(SELINA_UPLOAD_TEMP_DEST)/
-
-$(DOCS_SCREENPLAY_DB5): %.db5.xml: %.screenplay-xml.xml
-	perl -MXML::Grammar::Screenplay::App::ToDocBook -e 'run()' -- \
-		-o $@ $<
 
 $(DOCS_SCREENPLAY_XML): %.screenplay-xml.xml: %.screenplay-text.txt
 	perl -MXML::Grammar::Screenplay::App::FromProto -e 'run()' -- \
@@ -59,9 +51,6 @@ $(DOCS_SCREENPLAY_RTF): %.rtf: %.fo
 	fop -fo $< -rtf $@
 
 rtf: $(DOCS_SCREENPLAY_RTF)
-
-$(DOCS_SCREENPLAY_ODT): $(DOCS_SCREENPLAY_DB5)
-	docbook2odf $< -o $@
 
 # DOCBOOK_RNG = http://www.docbook.org/xml/5.0/rng/docbook.rng
 
