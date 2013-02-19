@@ -429,8 +429,9 @@ The Guide: REALITY IS WEIRD, MAGEIA. FAREWELL FOR NOW.
 a scissors. She sits on the bench and start preparing some papercuttings.
 
 Fron, a demon with four long stick legs and a short neck steps into the frame.
+<img src="images/fron-demon-illustration-small-indexed.png" alt="Illustration of Fron" title="Fron the Demon" />
 
-Selina notices him, is startled and says]
+Selina notices him, is startled and says:]
 
 Selina: Why, hello there! You seem out of place for this fine location. Are
 you looking for me?
