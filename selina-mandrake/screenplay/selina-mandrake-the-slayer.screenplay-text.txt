@@ -448,7 +448,7 @@ Selina: OK, if you say so.
 
 [There are three young men dressed as Klingons who fight with
 <a href="http://en.wikipedia.org/wiki/Bat%27leth">Bat’leth</a> in the park.
-Selina is passing by and shakes her head in disapproval. The Three notice Selina,
+Selina is passing by and shakes her head in disapproval. The three notice Selina,
 and quickly run to her.]
 
 Warrior #1: Hail The Slayer, we are but your humble slaves!
@@ -914,15 +914,16 @@ fancy chest].
 Selina: I'm probably going to regret it.
 
 [She opens the chest and at one side there’s a fancy and translucent
-<a href="http://en.wikipedia.org/wiki/Ten-sided_die">1d10</a>. Selina extracts
-it and smiles. She then opens the other compartment and sees a plastic
+<a href="http://en.wikipedia.org/wiki/Ten-sided_die">1d10</a>. Selina takes
+it out and smiles. She then opens the other compartment and sees a plastic
 card that reads “Vampire”, she turns over the card and sees an ID photo of her
 with the labels «Selina Mandrake ; “buffy” ; The Dispeller»]
 
 Selina: Hold it, hold it, so now I am still a vampire and am
 “The Dispeller”? Who will slay me?
 
-The Guide: Do not worry about it. [He takes out a mobile phone and calls, the phone answers.]
+The Guide: Do not worry about it. [He takes out a mobile phone and calls, the
+phone answers.]
 
 The Guide: Mosheh! How are you doing? How is the Mrs.? All’s well?
 
@@ -975,7 +976,7 @@ Selina: Bye…
 
 Selina’s voice: I took The Guide’s advice and invited Jessica, Jonathan and
 Matthew to come over to my house, and started telling them the whole story,
-while telling them they may decide whether to believe me or not. They found it
+after telling them they may decide whether to believe me or not. They found it
 incredibly funny and burst out laughing several times.
 
 +++: They said that whether it was real or not, it was a blast hearing it,
@@ -1019,7 +1020,7 @@ Selina: Mr. Mosheh - this is not the time to make such silly jokes.
 +++: Tell me one thing: why me? <b>wha - hy</b> me? Why was I chosen to be
 <b>The Slayer</b> and then, the… the…
 
-Aharon: The dispeller!
+Aharon: The Dispeller!
 
 Selina: Exactly. Was it destiny? [starts crying] Was it fate? Did I want to?
 
@@ -1190,9 +1191,9 @@ captured the attention of the local nobility, the Lords of Canterson. The
 older brother, who liked me so much, became infatuated with me, courted me, and
 eventually we got married.
 
-+++: we led a happy marriage, but it was terminated shortly after that when
++++: we led a happy marriage, but it was terminated shortly after that, when
 the lord, my husband, became sick, and then dying. It was not my fault, but I
-was devastated from it, and after recovering, told the Lord’s younger brother,
+was devastated from it, and after recovering, told the lord’s younger brother,
 the now honourable Lord James Canterson, that I was going to relocate to Paris,
 France, for a change of scenery. He agreed.
 
