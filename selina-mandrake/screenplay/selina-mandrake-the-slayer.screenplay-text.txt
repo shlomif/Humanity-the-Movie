@@ -798,7 +798,7 @@ Selina: That’s the Amber? It’s pretty nice here. Hope I'm not trespassing.
 
 Mrs. Mendelssohn: [Startled] Why hello there. Who might you be?
 
-Selina: Oh, Selina Mandrake. At your service! Nice to meet you [she approaches Mrs. Mendelssohn her and extends her hand.]
+Selina: Oh, Selina Mandrake. At your service! Nice to meet you [she approaches Mrs. Mendelssohn, and extends her hand.]
 
 Mrs. Mendelssohn: Nice to meet you, too: Mrs. Catherine Mendelssohn.
 
@@ -877,7 +877,7 @@ Selina: “Mhmm”?? Hold it, you are Charlemagne! Wow, that’s so cool.
 +++: Tell me: how did you become a vampire? And surely you cannot be the
 vampire with the oldest soul? And did you ever come to educate your
 descendants? After all, you forefathered the better half of the European
-nobility? I want to hear all about it!
+nobility. I want to hear all about it!
 
 The Master: SILENCE, SELINA! YOU HAVE REVEALED MY TRUE IDENTITY AND NOW I MUST
 PERISH, FOR NO ONE HAS DONE THAT UNTIL NOW. THE PROPHECIES OF THE CODEX HAVE
@@ -914,7 +914,7 @@ toll too much.
 
 The Guide: INDEED, MAGEIA! SLAYING IS DIFFICULT.
 
-+++: NOW I NEED TO TELL YOU THAT IT’S ONLY THE START.
++++: NOW I NEED TO TELL YOU THAT IT’S ONLY THE BEGINNING.
 
 Selina: What?? [she gets angry]
 
@@ -949,9 +949,9 @@ shoots the unkempt woman in the heart. She evaporates into dust.]
 
 Selina: Oh my god, oh my god. What was that?
 
-The Guide: [In a non-dramatic tone] That was the Slayer.
+The Guide: [In a non-dramatic tone] That was The Slayer.
 
-Selina: So you slew the Slayer?
+Selina: So you slew The Slayer?
 
 The Guide: No, you did.
 
@@ -1528,14 +1528,14 @@ wonderful me? The individual? Can’t I dispel the whole thing?
 
 Aharon: I knew you can do it, Selina.
 
-Mosheh: [tears of joy on his eyes] yes, indeed. See, one of the prophecies of
+Mosheh: [tears of joy on his eyes] yes, indeed. See, one of the prophecies
 given by the Bajoran Prophets was that one day the Bajorans themselves will no
 longer need them. And eventually Kai Win, predicted that the Dispeller will
 finally put the whole ordeal to rest. So the Bajorans have placed the orbs
 on public display for everyone to experience and talk to the Prophets, but
-will no longer take such prophecies seriously. The Prophets will continue
-to be an active field of research for the Bajorans and the Q Continuum, but
-won’t be considered an object of worship.
+will no longer take such prophecies seriously. The Prophets of the
+wormhole will continue to be an active field of research for the Bajorans and
+the Q Continuum, but won’t be considered an object of worship.
 
 +++: Tomorrow’s day in Bajor will not be the day of the Dispeller, but rather
 the day of Selina Mandrake, the wonderful, beautiful, intelligent
@@ -1576,7 +1576,7 @@ and at greater capacity, tend to think outside the box, and simply tend to
 avoid the many invisible rules that plague more professional structures.
 
 +++: The so-called New Age is finally arriving, and we are about to establish
-the whole world Neo-Semitic culture, based on diversity, cross-pollination,
+the world-planning Neo-Semitic culture, based on diversity, cross-pollination,
 acceptance, tolerance, rationality and life.
 
 [Cut to Selina.]
@@ -1599,9 +1599,9 @@ Western Semitic people, primarily those who spoke the various Hebrew languages
 and Aramaic, have mostly converted to use the Alphabet, which appeared like a
 sloppy, hard to read, and a poor man’s writing system, which they often used
 to write about anything including about drinking, being happy and jolly,
-erotica and even blatant pornography.
+spreading vicious rumours, erotica and even blatant pornography.
 
-+++: Some people used it as one of their technological and strategical
++++: Some peoples used it as one of their technological and strategical
 advantages and made sure to pass messages for stuff.
 
 +++: On the other hand, Cuneiform was originally created for Sumerian, which
