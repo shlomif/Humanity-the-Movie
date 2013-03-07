@@ -935,7 +935,7 @@ the hell?
 +++: No way… no way… no freakin’ way.
 
 +++: Tell you what! I quit! I am no longer <b>The Slayer</b>. I just wanna
-be plain old Selina Mandrake, human being.
+be plain old Selina Mandrake — human being.
 
 The Guide: AS YOU WISH.
 
@@ -1177,7 +1177,7 @@ Selina: By Dumas? Of course! … What?! Milady de-Winter?! She?!
 Mosheh: The more accurate story is a bit more complicated, but maybe you’d
 like to hear it from a more authoritative source.
 
-Selina: Who?
+Selina: From whom?
 
 Mosheh: Look behind you.
 
@@ -1224,9 +1224,9 @@ which some no-goodnicks from my whereabouts, ridiculed me of being of
 Jewish heritage, but eventually, I knew not to care. There were plenty of
 other brunette girls among my friends, anyway.
 
-+++: So, my father wanted me to learn the proper Christian law and ethics, so
-he taught me how to read English, and told me to read the Bible. I grew to love
-it, and considered the various characters there as my friends.
++++: Anyway, my father wanted me to learn the proper Christian law and ethics,
+so he taught me how to read English, and told me to read the Bible. I grew to
+love it, and considered the various characters there as my friends.
 
 +++: Moreover, I organised various shows of the Bible, by children at the
 local parish, often with a lot of humour thrown in, in order to captivate the
@@ -1259,7 +1259,7 @@ and were trying to put me down.
 +++: At one point, I could not take it anymore, and I went to a corner couch,
 sat down, and started crying. I was joined by d’Artagnan, a young (about my
 age), and promising, guard at the des Essarts' company of guards, who was a
-big fan of me and my stories about what happened in the Bible, and he asked me,
+big fan of me and my stories about what happened in the Bible, and he asked me:
 
 [Showing the couch]
 
@@ -1316,17 +1316,17 @@ ended up giving them d’Artagnan’s advice, which I noticed had made
 them quickly lose their job, and then meeting me and telling me how relieved
 they were.
 
-+++: Anyway, I was expecting d’Artagnan to propose soon after all that, when
-it was announced that the conquest of La Rochelle was about to take place,
-and that d’Artagnan will relocate there. I was somewhat worried for his
-future, and thought we would have to part soon.
++++: In any case, I was expecting d’Artagnan to propose soon after all that,
+when it was announced that the conquest of La Rochelle was about to take place,
+and that d’Artagnan will relocate there. I was somewhat worried for his future,
+and thought we would have to part soon.
 
 +++: However, nothing prepared me for the time when my maid woke me up in the
 middle of the night and informed me that there were two of the King’s
 Musketeers at the door. I wondered why. The Musketeers told me the king asked
 to see me, so I wore a plain dress, and the Musketeers took me in a carriage
 to the palace. They escorted me to a room where I saw the King sitting at an
-armchair, as well as d’Artagnan, and his good friend and mentor, Athos
+armchair, as well as d’Artagnan, and his good friend and mentor, Athos,
 standing at a corner.
 
 [Showing the scene at the Palace.]
@@ -1557,7 +1557,7 @@ was revealed to having been alive in the quadrant all the time under his true
 (but constantly disputed) identity. He was not as capable a physical
 warrior as was once reported (and certainly isn't now) - just someone who knew
 how to avoid fighting, and reach a middle ground without anyone getting hurt,
-and nor was he as impressive physically as reported back then. He returned
+and nor is he as impressive physically as reported back then. He returned
 in The Day of The Living Dead to guide the Klingons back into rationality and
 carefulness instead of what became their traditional stubbornness and haste.
 
@@ -1595,12 +1595,12 @@ Mosheh: Yes, lots of memories.
 
 Selina: Heh, pleasant memories?
 
-Mosheh: Well nostalgic ones, but not really pleasant ones. You see, the
+Mosheh: Well: nostalgic ones, but not really pleasant ones. You see, the
 Western Semitic people, primarily those who spoke the various Hebrew languages
 and Aramaic, have mostly converted to use the Alphabet, which appeared like a
 sloppy, hard to read, and a poor man’s writing system, which they often used
-to write about anything: drinking, being happy and jolly,
-spreading vicious rumours, erotica and even blatant pornography.
+to write about anything including drinking, being happy and jolly,
+spreading vicious rumours, erotica, and even blatant pornography.
 
 +++: Some peoples used it as one of their technological and strategical
 advantages and made sure to pass many messages.
