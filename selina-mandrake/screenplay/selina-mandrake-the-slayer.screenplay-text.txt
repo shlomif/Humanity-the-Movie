@@ -840,6 +840,40 @@ television showing photos from her trip to Israel. ]
 
 </s>
 
+<s id="vampires-gathering-in-the-hall" title="The Gathering of Vampires in the Hall">
+
+<s id="the-guide-telling-about-the-gathering" title="The Guide Telling Selina About the Vampire Gathering">
+
+[Selina is walking down the hallway with her backpack. The Guide joins her.]
+
+The Guide: HELLO MAGEIA!! YOU ARE NOW READY FOR YOUR PENULTIMATE CHALLENGE.
+
+Selina: Hi, Mr. Guide. Thanks for the heads-up. Anything more you can tell
+me about it?
+
+The Guide: INDEED, I CAN. SEE, A VERY LARGE GATHERING OF SOME OF THE MOST
+POWERFUL AND DEADLIEST VAMPIRES HAVE GATHERED IN YOUR SCHOOL'S HALL AND THEY
+MUST BE SLAYED BY YOU.
+
+Selina: you do not propose I burn it, do you?
+
+The Guide: OF COURSE NOT! I TRUST YOU CAN USE YOUR SUPERIOR SLAYING
+SKILLS IN ORDER TO ERADICATE THE EVIL OF THESE BLOOD HUNGRY DEMONS.
+
+[They hear a commotion from the hall’s door.]
+
+Selina: OK, here it is. Should I enter?
+
+The Guide: YOU MUST.
+
+Selina: OK, here goes nothing - see you on the other side.
+
+[Selina enters]
+
+</s>
+
+</s>
+
 <s id="the-master" title="The Master">
 
 [Selina runs into The Master, a big man with a stern look.]
