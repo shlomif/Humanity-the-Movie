@@ -1625,7 +1625,7 @@ service.
 <s id="getting-help-with-cuneiform" title="Selina Gets Help with her Cuneiform Homework">
 
 Selina: Anyway, even if I am a vampirella, or a heroine or a Q or whatever, I
-still have my responsibilities as a student of Near East Archaelogy. And that
+still have my responsibilities as a student of Near East archaelogy. And that
 means - cuneiform!
 
 Aharon: Ah, cuneiform. That brings back memories.
