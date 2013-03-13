@@ -391,7 +391,7 @@ Selina’s Voice: Mrs. Chu, do you know where I can find a small broom?
 
 </s>
 
-<s id="the-guide-about-john-and-alan" title="The Guide about John Alan">
+<s id="the-guide-about-john-and-alan" title="The Guide about John and Alan">
 
 [ Selina is walking down the hallway from the library frustrated. The
 Guide approaches her. ]
@@ -426,7 +426,8 @@ The Guide: REALITY IS WEIRD, MAGEIA. FAREWELL FOR NOW.
 <s id="selina-and-fron" title="Selina and the Demon Fron">
 
 [ Selina is walking towards a bench in a park, holding several newspapers, and
-a scissors. She sits on the bench and start preparing some papercuttings.
+a pair of scissors. She sits on the bench and start preparing some
+papercuttings.
 
 Fron, a demon with four long stick legs and a short neck steps into the frame.
 <img src="images/fron-demon-illustration-small-indexed.png" alt="Illustration of Fron" title="Fron the Demon" />
@@ -566,7 +567,7 @@ Warrior #1: What a day to fight using toothpicks!
 
 The Three: [in unison] oh, oh.
 
-+++: We have been slain by Buffy Mageia, the Slayer. [There is a bright
++++: WE HAVE BEEN SLAIN BY BUFFY MAGEIA, THE SLAYER. [There is a bright
 greenish-yellowish triangle extending from their bodies and extends outwards,
 and then they perish and evaporate into dust.]
 
@@ -691,7 +692,7 @@ Selina: Oh, try me.
 Mephiqoleth: Very well.
 
 Selina: Just one thing, can you please wait with teleporting me to
-<b>the Amber</b> until Spring break, so I can get ready and safely
+<b>the Amber</b> until Spring break, so I can get ready and try to safely
 return back home?
 
 Mephiqoleth: OF COURSE! I AM TIMELESS. FAREWELL, MAGEIA, I SHALL MEET YOU
@@ -731,8 +732,8 @@ Selina: Yep, a trip.
 
 Jonathan: Where?
 
-Selina: Oh, it shall be a surprise. [The bell rings] Home time, bye!!! [She
-walks away.]
+Selina: Oh, it is going to be a surprise. [The bell rings]
+Home time, bye!!! [She walks away.]
 
 [Jessica and Jonathan look at each other]
 
@@ -788,7 +789,7 @@ Mephiqoleth: … האמבר. [The Amber]
 
 [ Seen through Selina’s Eyes, the scenery morphs into the untidy living room
 of, in midday, in a “villa" in Ramat Aviv Gimel, Tel Aviv. The birds are
-tweeting outside and there’s a feeling of tranquillity. ]
+chirping outside and there’s a feeling of tranquillity. ]
 
 [Cut to Selina inside the house. She looks around]
 
@@ -853,7 +854,7 @@ me about it?
 
 The Guide: INDEED, I CAN. SEE, A VERY LARGE GATHERING OF SOME OF THE MOST
 POWERFUL AND DEADLIEST VAMPIRES HAVE GATHERED IN YOUR SCHOOL'S HALL AND THEY
-MUST BE SLAYED BY YOU.
+MUST BE SLAIN BY YOU.
 
 Selina: you do not propose I burn it, do you?
 
