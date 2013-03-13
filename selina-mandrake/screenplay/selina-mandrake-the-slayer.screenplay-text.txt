@@ -494,6 +494,39 @@ cuttings. Let’s put this newspaper in the paper waste.
 
 </s>
 
+<s id="playing-basketball" title="Playing Basketball">
+
+[Selina, Matthew, Jessica and Jonathan are playing Basketball over one
+basket on a court. Selina is breathless.]
+
+Selina: time out, time out [does a T with her hands.]
+
+[She breathes heavily.]
+
+Selina: Wow, I am being killed her.
+
+Jonathan: Crused here!
+
+Selina: Yeah, completely squashed here.
+
+Matthew: Slain here.
+
+[cut to Selina’s face. She seems startled.]
+
+Selina: Slain?
+
+Matthew: Heh, yes, like a vampire is getting slain.
+
+Selina: Tell you what? I’m not feeling too well. You can continue to
+play without me. Bye, I’m leaving. See you. Love you.
+
+[She walks away looking worried.]
+
+Selina’s internal dialogue: Wow, why me? Why me? This is maddening.
+
+</s>
+
+
 <s id="selina-and-the-three" title="Selina and The Three">
 
 [There are three young men dressed as Klingons who fight with
