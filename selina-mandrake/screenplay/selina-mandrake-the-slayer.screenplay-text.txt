@@ -1620,7 +1620,11 @@ acceptance, tolerance, rationality and life.
 Selina: [wipes some tears from her face] beautiful - I am glad I proved of
 service.
 
-+++: Anyway, even if I am a vampirella, or a heroine or a Q or whatever, I
+</s>
+
+<s id="getting-help-with-cuneiform" title="Selina Gets Help with her Cuneiform Homework">
+
+Selina: Anyway, even if I am a vampirella, or a heroine or a Q or whatever, I
 still have my responsibilities as a student of Near East Archaelogy. And that
 means - cuneiform!
 
