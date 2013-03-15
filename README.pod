@@ -1,13 +1,12 @@
 =encoding utf8
 
-=head1 Selina Mandrake - The Slayer - Source Repository.
+=head1 Humanity - The Movie
 
 =head2 About
 
-This repository contains the sources for I<Selina Mandrake - The Slayer>,
-a screenplay by Shlomi Fish (L<http://www.shlomifish.org/>), that serves as a
-parody and tribute to the show I<Buffy - The Vampire Slayer> and several other
-influences.
+This repository contains the sources for I<Humanity - The Movie>,
+an original screenplay by Shlomi Fish (L<http://www.shlomifish.org/>), that
+parodies humanity, and particularly modern life.
 
 =head2 Links
 
@@ -15,19 +14,18 @@ influences.
 
 =item * Homepage
 
-L<http://www.shlomifish.org/humour/Selina-Mandrake/>
-
-=item * On the Buffy Fanfiction Wikia
-
-L<http://buffyfanfiction.wikia.com/wiki/Selina_Mandrake_-_The_Slayer>
+L<http://www.shlomifish.org/humour/humanity/>
 
 =back
 
 =head2 Building
 
-Go to C<selina-mandrake/screenplay/> and type C<make> .
+Go to C<humanity/screenplay/> and type C<make> .
 
 =head2 Ideas document / plot summary
 
-The file C<selina-mandrake/ideas/ideas.txt> contains some ideas to put into
+The file C<humanity/ideas/ideas.txt> contains some ideas to put into
 the story.
+
+=cut
+
