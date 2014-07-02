@@ -16,6 +16,8 @@ DOCS_SCREENPLAY_RTF = $(patsubst %,%.screenplay-text.rtf,$(DOCS_BASE))
 
 DOCBOOK5_XSL_STYLESHEETS_PATH := $(HOME)/Download/unpack/file/docbook/docbook-xsl-ns-snapshot
 
+ENG_EPUB = $(patsubst %,%.epub,$(DOCS_BASE))
+
 HOMEPAGE := $(HOME)/Docs/homepage/homepage/trunk
 DOCBOOK5_XSL_STYLESHEETS_XHTML_PATH := $(DOCBOOK5_XSL_STYLESHEETS_PATH)/xhtml
 DOCBOOK5_XSL_STYLESHEETS_FO_PATH := $(DOCBOOK5_XSL_STYLESHEETS_PATH)/fo
@@ -59,8 +61,6 @@ DOCBOOK_RNG = ./rng/docbook.rng
 # XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-ns-snapshot
 XSL_SNAPSHOT_HOME = $(HOME)/Download/unpack/file/docbook/docbook-xsl-snapshot/
 
-EPUB_SCRIPT = $(XSL_SNAPSHOT_HOME)/epub/bin/dbtoepub
-
 $(ENG_HTML_FOR_OOO): $(ENG_XHTML)
 	cat $< | perl -lne 'print unless m{\A<\?xml}' > $@
 
@@ -87,3 +87,8 @@ clean:
 
 linview: $(DOCS_SCREENPLAY_XHTML_AS_HTML)
 	xdg-open $<
+
+EPUB_SCRIPT = scripts/prepare-epub.pl
+
+$(ENG_EPUB): %.epub: %.screenplay-text.xhtml $(EPUB_SCRIPT)
+	perl $(EPUB_SCRIPT) --output $@ $<
