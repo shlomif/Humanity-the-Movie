@@ -73,7 +73,5 @@ clean:
 linview: $(DOCS_SCREENPLAY_XHTML_AS_HTML)
 	xdg-open $<
 
-EPUB_SCRIPT = scripts/prepare-epub.pl
-
 $(ENG_EPUB): %.epub: %.screenplay-text.xhtml $(EPUB_SCRIPT)
 	perl $(EPUB_SCRIPT) --output $@ $<
