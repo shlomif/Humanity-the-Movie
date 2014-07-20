@@ -7,8 +7,6 @@ FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
 
 DOCS_BASE = Humanity-Movie Humanity-Movie-hebrew
 
-ENG_EPUB = $(patsubst %,%.epub,$(DOCS_BASE))
-
 include screenplays_common.mak
 
 SELINA_UPLOAD_TEMP_DEST = temp-selina-mandrake-P9n7ybv3wq2t
