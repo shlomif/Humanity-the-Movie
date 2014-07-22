@@ -27,7 +27,7 @@ foreach my $part ($filename =~ /hebrew/i ? 1 : 0)
         encode_json(
             {
                 filename => $epub_basename,
-                title => qq/The One with The Fountainhead/ . ($part ? " - Hebrew Translation" : ""),
+                title => "Humanity - The Movie" . ($part ? " - Hebrew Translation" : ""),
                 authors =>
                 [
                     {
@@ -43,14 +43,14 @@ foreach my $part ($filename =~ /hebrew/i ? 1 : 0)
                     },
                 ],
                 cover => "images/$gfx",
-                rights => "Creative Commons Attribution ShareAlike Unported (CC-by-3.0)",
+                rights => "Creative Commons Attribution ShareAlike Unported (CC-by-sa-3.0)",
                 publisher => 'http://www.shlomifish.org/',
                 language => 'en-GB',
                 subjects => [ 'FICTION/Horror', 'FICTION/Humorous', 'FICTION/Mashups', ],
                 identifier =>
                 {
                     scheme => 'URL',
-                    value => 'http://www.shlomifish.org/humour/TOWTF/',
+                    value => 'http://www.shlomifish.org/humour/humanity/',
                 },
                 contents =>
                 [
