@@ -3,9 +3,6 @@
 use strict;
 use warnings;
 
-use IO::All;
-use JSON::MaybeXS qw(encode_json);
-
 use utf8;
 
 use Shlomif::Screenplays::EPUB;
@@ -23,8 +20,9 @@ foreach my $part ($filename =~ /hebrew/i ? 1 : 0)
     my $epub_basename = ( $filename =~ s/\.screenplay-text.xhtml\z//r );
     $obj->epub_basename($epub_basename);
 
-    io->file($target_dir . '/' . $obj->json_filename)->utf8->print(
-        encode_json(
+    $obj->output_json(
+        {
+            data =>
             {
                 filename => $epub_basename,
                 title => "Humanity - The Movie" . ($part ? " - Hebrew Translation" : ""),
@@ -78,8 +76,6 @@ foreach my $part ($filename =~ /hebrew/i ? 1 : 0)
                     },
                 ],
             },
-        ),
+        },
     );
-
-    $obj->output_json;
 }
