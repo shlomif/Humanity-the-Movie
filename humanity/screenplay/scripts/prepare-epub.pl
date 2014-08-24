@@ -13,7 +13,6 @@ $obj->run;
 my $gfx = $obj->gfx;
 my $filename = $obj->filename;
 my $out_fn = $obj->out_fn;
-my $target_dir = $obj->target_dir;
 
 foreach my $part ($filename =~ /hebrew/i ? 1 : 0)
 {
