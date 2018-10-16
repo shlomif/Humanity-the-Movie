@@ -1,4 +1,4 @@
-<s id="humanity" title="Humanity - The Movie">
+<s id="humanity" lang="en" title="Humanity - The Movie">
 
 [Note: This screenplay was written by <a href="http://www.shlomifish.org/">Shlomi Fish</a>, and is original artwork.]
 
