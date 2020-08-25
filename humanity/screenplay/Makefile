@@ -1,4 +1,4 @@
-DOCS_BASE = Humanity-Movie Humanity-Movie-hebrew
+DOCS_BASE = Humanity-Movie
 
 SELINA_UPLOAD_TEMP_DEST = temp-humanity-R9kgm7ybv3wq2t
 
