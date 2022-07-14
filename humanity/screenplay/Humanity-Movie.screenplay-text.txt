@@ -395,8 +395,8 @@ Young man: Great! Thanks. [He walks there.]
 
 <s id="the-town-council" title="The Town Council (the final episode)">
 
-City Head: OK. Here we are for our monthly town council. Is anything on
-the agenda?
+City Head: OK. Here we are gathered for our monthly town council. Is anything
+on the agenda?
 
 [The Inventor raises his hand.]
 
